@@ -1,0 +1,23 @@
+Escribe un programa en Java que en el main:
+
+1. pida un número entero,
+2. genera un aleatorio entre 0 y el número pedido y lo muestre;
+3. muestre los impares en orden descendente entre 0 y el número
+aleatorio.
+
+
+1. Crea una función que calcule el factorial de un número entero
+positivo.
+2. Escribe una función que calcule la potencia de un número entero.
+3. Implementa una función que calcule la media aritmética de una
+lista de números.
+4. Crea una función que calcule el máximo común divisor de dos
+números enteros.
+5. Escribe una función que calcule el número de combinaciones
+posibles de n elementos tomados de k en k.
+6. Implementa una función que calcule el número de números primos
+que hay entre 2 y n.
+7. Crea una función que calcule el número de ocurrencias de un
+elemento en una lista.
+8. Escribe una función que determine si un número es palíndromo o
+no.
