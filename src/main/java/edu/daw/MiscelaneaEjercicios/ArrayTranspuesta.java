@@ -1,4 +1,4 @@
-package edu.daw.OtrosEjercicios;
+package edu.daw.MiscelaneaEjercicios;
 
 import java.util.Random;
 
